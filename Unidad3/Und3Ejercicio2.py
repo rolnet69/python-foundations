@@ -1,4 +1,6 @@
-print("MULTIPLICACIÓN DE MATRICES")
+print("-----------------------------------")
+print("Ejercicio 2 - Producto de Matrices")
+print("-----------------------------------")
 fA,cA = int(input("Filas Matriz A: ")), int(input("Columnas Matriz A: "))
 fB,cB = int(input("Filas Matriz B: ")), int(input("Columnas Matriz B: "))
 
