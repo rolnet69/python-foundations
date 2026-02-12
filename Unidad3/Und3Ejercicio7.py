@@ -3,12 +3,12 @@ print("Ejercicio 7 - Combinar diccionarios")
 print("-----------------------------------")
 
 # Diccionario 1
-print("\n--- DICCIONARIO 1 ---")
+print("\n--- Diccionario 1 ---")
 d1 = {}
 while True:
-    c = input("Clave: ")
+    c = input("Clave (en blanco para salir): ")
     if c == "": break
-    v = input("Valor: ")
+    v = input("Valor (en blanco para salir): ")
     if v == "": break
     
     try:
@@ -27,12 +27,12 @@ while True:
 print(d1)
 
 # Diccionario 2
-print("\n--- DICCIONARIO 2 ---")
+print("\n--- Diccionario 2 ---")
 d2 = {}
 while True:
-    c = input("Clave: ")
+    c = input("Clave (en blanco para salir): ")
     if c == "": break
-    v = input("Valor: ")
+    v = input("Valor (en blanco para salir): ")
     if v == "": break
     
     try:
@@ -75,7 +75,7 @@ for c, v in d2.items():
 
 # Mostrar resultado
 print("\n" + "="*40)
-print("RESULTADO")
+print("Resultado Combinado")
 print("="*40)
 print("D1 =", d1)
 print("D2 =", d2)
