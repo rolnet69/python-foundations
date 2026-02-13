@@ -60,5 +60,5 @@ for i, (z, op, conj) in enumerate(complejos, 1):
     print(f"Conjugado: {conj}")
 
 print("\n" + "=" * 50)
-print(f"Total de números complejos: {len(complejos)}")
+print(f"Total de números complejos Ingresados: {len(complejos)}")
 print("=" * 50)
