@@ -4,7 +4,7 @@ import os
 os.system('cls' if os.name == 'nt' else 'clear')
 
 print("-------------------------------------------------")
-print("Ejercicio 3 - Cuenta frecuencia de cada carácter.")
+print("Ejercicio 3 - Contar frecuencia de cada carácter.")
 print("-------------------------------------------------")
 
 def contar_caracteres(texto):
@@ -15,7 +15,7 @@ def contar_caracteres(texto):
     return d
 
 # Programa principal
-texto = input("Texto: ")
+texto = input("Ingresa un texto: ")
 if texto:
     for c, n in contar_caracteres(texto).items():
         print(f"'{c}': {n}")
