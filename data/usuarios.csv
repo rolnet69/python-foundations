@@ -1,6 +1,0 @@
-id,nombres,apellidos,username,password,role,first_login
-1,Miguel,Rodríguez Vargas,RV1,Admin2025,Administrador,False
-2,Ana Patricia,Gómez Méndez,GM2,nueva789,Cliente,False
-3,Carlos Eduardo,Herrera Cruz,HC3,Cliente2025,Cliente,True
-4,María Fernanda,López Ruiz,LR4,Cliente2025,Cliente,True
-5,Carlos,Ramirez Lopez,RL5,temp123,Cliente,True
