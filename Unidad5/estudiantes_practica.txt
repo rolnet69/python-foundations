@@ -1,0 +1,21 @@
+Carnet,Nombres,Apellidos,Carrera
+AA19045,Carlos Alberto,García Martínez,Licenciatura en Ciencias Jurídicas
+RM21012,María Elena,Rodríguez Mejía,Doctorado en Medicina
+SP22089,Jorge Luis,Sánchez Pérez,Ingeniería de Sistemas Informáticos
+BT20034,Ana Gabriela,Beltrán Torres,Licenciatura en Psicología
+LM23001,Kevin Josué,López Morales,Ingeniería Industrial
+CH18076,Sofía Beatriz,Castillo Hernández,Licenciatura en Periodismo
+AG21055,Diego Alejandro,Arévalo Gómez,Ingeniería Agronómica
+VR19023,Patricia Iveth,Vásquez Ramos,Licenciatura en Lenguas Modernas
+MP22044,Ricardo Antonio,Mendoza Portillo,Ingeniería Eléctrica
+FQ20067,Claudia Marcela,Flores Quintanilla,Licenciatura en Administración de Empresas
+SR21033,Fernando José,Solórzano Rivas,Ingeniería Mecánica
+HP23098,Gabriela María,Henríquez Peña,Licenciatura en Relaciones Internationales
+CG19011,Roberto Carlos,Cortez Guevara,Arquitectura
+AM22072,Lucía Fernanda,Alvarado Miranda,Licenciatura en Química y Farmacia
+PR20085,Manuel Enrique,Pineda Renderos,Ingeniería Civil
+ZD21029,Elena Noemy,Zelaya Duarte,Licenciatura en Sociología
+OM23015,Cristian Alexander,Orellana Melgar,Licenciatura en Artes Plásticas
+BS18041,Andrea Michelle,Barahona Segovia,Doctorado en Cirugía Dental
+TC22063,Oscar Daniel,Ticas Campos,Ingeniería Química
+GV19092,Karla Ivonne,Guzmán Villalta,Licenciatura en Economía
